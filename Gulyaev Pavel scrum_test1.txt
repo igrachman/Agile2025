@@ -1,0 +1,18 @@
+Answers for Scrum Test 1:
+Q1: C. The project needs better change control and requirements management practices
+Q2: C. Project Manager
+Q3: C. Ignore the specification, because agile teams value customer collaboration over comprehensive documentation
+Q4: C. Both A and B
+Q5: C. It contains values that establish an agile mindset
+Q6: B. Sprints
+Q7: C. Customer collaboration over contract negotiation
+Q8: C. Waterfall
+Q9: B. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+Q10: B. Satisfying the customer by delivering valuable software early and often
+Q11: B. It’s the same thing as a status meeting
+Q12: A. Maximizing the work not done
+Q13: D. Work with the team on changing their mindset
+Q14: C. Customer collaboration over contract negotiation
+Q15: A. It gives the team a way to explain a missed deadline
+Q16: A. It contains the final version of all features
+Q17: A. The team must finish all planned work by the end of an iteration

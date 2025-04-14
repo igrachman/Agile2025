@@ -1,0 +1,18 @@
+Answers for Scrum Test 2:
+Q1: C. Helping the team understand customer requirements
+Q2: A. Status
+Q3: D. She does not have the authority to adequately fill her Product Owner role
+Q4: B. When every item to be delivered meets its definition of 'Done' and the Product Owner accepts it
+Q5: A. Everyone on the team feels personally responsible for delivering the entire Increment, not just their individual parts of it
+Q6: B. Product Backlog
+Q7: C. Sprint Retrospective
+Q8: C. When the timebox expires
+Q9: B. What planned work did I fail to accomplish?
+Q10: D. Focus
+Q11: C. The Sprint Goal
+Q12: D. Inspection
+Q13: A. The items from the Sprint Backlog that the team actually completes during the Sprint
+Q14: B. Holding a Daily Scrum
+Q15: A. Update the Product Backlog
+Q16: B. The team decomposes Sprint Backlog items into tasks
+Q17: D. The team looks back at the Sprint and creates a plan to improve
